@@ -1,6 +1,6 @@
 ### Gui Russo e equipe CepespData
 ## Quantos candidatos a vereador teremos nas eleições de 2020?
-# 3 de Março, 2019
+# 3 de Março, 2020
 
 ##### DO REGISTRO DE CANDIDATOS ----------------------------------- 
 # Fonte: http://www.tse.jus.br/legislacao/codigo-eleitoral
